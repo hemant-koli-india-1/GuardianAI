@@ -1,0 +1,9 @@
+pydantic>=2.7.4
+langchain-core==0.3.75
+langchain-groq==0.3.7
+httpx
+python-dotenv
+pandas
+openpyxl
+tenacity==8.2.2
+packaging==24.2
